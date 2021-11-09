@@ -1,3 +1,10 @@
+## Introduction
+
+This application uses the following project to generate a static lib for clang
+https://github.com/bdurrani/libclang-static-build
+
+This makes it easier to manage the build
+
 ## Sample flags for static libs
 
 ```
